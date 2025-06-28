@@ -2,7 +2,7 @@
 
 # How to run?
 - (for without GUI):
-  Go to scr/main and run Game.java file.
+  Go to src/main and run Game.java file.
 - (for GUI version):
   Go to src/ui and run GameGUI.java file.
 
