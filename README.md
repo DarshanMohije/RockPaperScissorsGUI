@@ -6,4 +6,4 @@
 - (for GUI version):
   run GameGUI.java file.
 
-  note: you can either run Game.java or GameGUI.java , Game.java version doesn't have any GUI.
+  Note: you can either run Game.java or GameGUI.java , Game.java version doesn't have any GUI.
